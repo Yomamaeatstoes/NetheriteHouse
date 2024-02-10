@@ -1,0 +1,7 @@
+name: NetheriteHouse
+version: '1.0v'
+main: ori.me.netheritehouse.NetheriteHouse
+api-version: '1.20'
+commands:
+  netherite:
+    description: netherite

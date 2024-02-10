@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetheriteHouse:jar">
+    <output-path>$USER_HOME$/Desktop/Servers/boop/plugins</output-path>
+    <root id="archive" name="NetheriteHouse.jar">
+      <element id="module-output" name="NetheriteHouse" />
+    </root>
+  </artifact>
+</component>
